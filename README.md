@@ -242,32 +242,31 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 |
 |
 └── 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒖𝒃𝒋𝒆𝒄𝒕
-|   ├── Object Oriented Programming (OOP)   
-|   |   ├── OOP.md
-|   |   └── ...
-|   |
-|   ├── Operating System (OS)
-|   |   ├── OS.md
-|   |   └── ...
-|   |
-|   ├── Database Management System (DBMS)
-|   |   ├── DBMS.md
-|   |   └── ...
-|   |
-|   ├── Structured Query Language (SQL) 
-|   |   ├── SQL.md
-|   |   └── ...
-|   |
-|   ├── Computer Network (CN)
-|   |   ├── CN.md
-|   |   └── ...
-|   |
-|   ├── Interview Questions
-|   |   ├── OOP
-|   |   ├── OS
-|   |   ├── DBMS
-|   |   ├── SQL
-|   |   ├── CN
-|   |   └── ...
-|   |
-|   └── ...
+    ├── Object Oriented Programming (OOP)   
+    |   ├── OOP.md
+    |   └── ...
+    | 
+    ├── Operating System (OS)
+    |   ├── OS.md
+    |   └── ...
+    |
+    ├── Database Management System (DBMS)
+    |   ├── DBMS.md
+    |   └── ...
+    |
+    ├── Structured Query Language (SQL) 
+    |   ├── SQL.md
+    |   └── ...    |
+    ├── Computer Network (CN)
+    |   ├── CN.md
+    |   └── ...
+    |
+    ├── Interview Questions
+        ├── OOP
+        ├── OS
+        ├── DBMS
+        ├── SQL
+        ├── CN
+        └── ...
+    
+
